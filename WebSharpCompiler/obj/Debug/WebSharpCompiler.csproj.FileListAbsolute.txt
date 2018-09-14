@@ -1,0 +1,7 @@
+C:\code\Web\WebSharpCompiler\WebSharpCompiler\bin\WebSharpCompiler.dll
+C:\code\Web\WebSharpCompiler\WebSharpCompiler\bin\WebSharpCompiler.pdb
+C:\code\Web\WebSharpCompiler\WebSharpCompiler\bin\WebSharpCompilerBusiness.dll
+C:\code\Web\WebSharpCompiler\WebSharpCompiler\bin\WebSharpCompilerBusiness.pdb
+C:\code\Web\WebSharpCompiler\WebSharpCompiler\obj\Debug\ResolveAssemblyReference.cache
+C:\code\Web\WebSharpCompiler\WebSharpCompiler\obj\Debug\WebSharpCompiler.dll
+C:\code\Web\WebSharpCompiler\WebSharpCompiler\obj\Debug\WebSharpCompiler.pdb

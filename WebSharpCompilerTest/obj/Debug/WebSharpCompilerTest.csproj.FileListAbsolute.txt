@@ -1,0 +1,7 @@
+C:\code\Web\WebSharpCompiler\WebSharpCompilerTest\bin\Debug\WebSharpCompilerTest.dll
+C:\code\Web\WebSharpCompiler\WebSharpCompilerTest\bin\Debug\WebSharpCompilerTest.pdb
+C:\code\Web\WebSharpCompiler\WebSharpCompilerTest\bin\Debug\WebSharpCompilerBusiness.dll
+C:\code\Web\WebSharpCompiler\WebSharpCompilerTest\bin\Debug\WebSharpCompilerBusiness.pdb
+C:\code\Web\WebSharpCompiler\WebSharpCompilerTest\obj\Debug\ResolveAssemblyReference.cache
+C:\code\Web\WebSharpCompiler\WebSharpCompilerTest\obj\Debug\WebSharpCompilerTest.dll
+C:\code\Web\WebSharpCompiler\WebSharpCompilerTest\obj\Debug\WebSharpCompilerTest.pdb

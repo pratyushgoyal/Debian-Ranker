@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSharpCompiler", "WebSharpCompiler\WebSharpCompiler.csproj", "{0059E9EA-56B0-4BF5-B9E1-65CCE9887AF6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A48AD0AB-8203-4FAD-BC53-BC838CAFCF21}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+		WebSharpCompiler.vsmdi = WebSharpCompiler.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSharpCompilerBusiness", "WebSharpCompilerBusiness\WebSharpCompilerBusiness.csproj", "{2EBAB82A-A7B0-47F2-9362-6ED17217E5F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSharpCompilerTest", "WebSharpCompilerTest\WebSharpCompilerTest.csproj", "{91611C15-9187-4FF9-89D5-FDB47E8348D5}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs23
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = WebSharpCompiler\\WebSharpCompiler.csproj
+		SccProjectName1 = WebSharpCompiler
+		SccLocalPath1 = WebSharpCompiler
+		SccProjectUniqueName2 = WebSharpCompilerBusiness\\WebSharpCompilerBusiness.csproj
+		SccProjectName2 = WebSharpCompilerBusiness
+		SccLocalPath2 = WebSharpCompilerBusiness
+		SccProjectUniqueName3 = WebSharpCompilerTest\\WebSharpCompilerTest.csproj
+		SccProjectName3 = WebSharpCompilerTest
+		SccLocalPath3 = WebSharpCompilerTest
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = WebSharpCompiler.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0059E9EA-56B0-4BF5-B9E1-65CCE9887AF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0059E9EA-56B0-4BF5-B9E1-65CCE9887AF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0059E9EA-56B0-4BF5-B9E1-65CCE9887AF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0059E9EA-56B0-4BF5-B9E1-65CCE9887AF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBAB82A-A7B0-47F2-9362-6ED17217E5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBAB82A-A7B0-47F2-9362-6ED17217E5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBAB82A-A7B0-47F2-9362-6ED17217E5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBAB82A-A7B0-47F2-9362-6ED17217E5F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91611C15-9187-4FF9-89D5-FDB47E8348D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91611C15-9187-4FF9-89D5-FDB47E8348D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91611C15-9187-4FF9-89D5-FDB47E8348D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91611C15-9187-4FF9-89D5-FDB47E8348D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
